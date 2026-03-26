@@ -9,7 +9,7 @@ Analyze sales data to identify trends, top-performing categories, and customer i
 - Charts
 
 ## 📊 Dashboard Preview
-![Dashboard](your-image-file-name.png)
+![Dashboard](superstore dashboard.png)
 
 ## 🔍 Key Insights
 - Consumer segment contributes the highest sales
